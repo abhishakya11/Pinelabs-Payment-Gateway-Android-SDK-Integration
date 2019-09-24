@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SampleMerchantApp</string>
+    <string name="SampleMerchantApp">SampleMerchantApp</string>
+    <string name="MerchantID">Merchant ID:</string>
+    <string name="Amount">Amount:</string>
+    <string name="ProductCode">Product Code:</string>
+    <string name="UniqueMerchantTxnID">Unique Merchant Txn ID:</string>
+    <string name="MerchantAuthCode">Merchant Auth Code:</string>
+    <string name="Submit">SUBMIT</string>
+    <string name="ThemeSelection">Theme ID</string>
+    <string name="Securesecretkey">Secure Secret Key</string>
+</resources>
